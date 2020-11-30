@@ -4,11 +4,5 @@
     "__source__": "https://neo.sci.gsfc.nasa.gov/view.php?datasetId=BlueMarbleNG-TB",
     "__projection__": "PlateCarree",
     "low": "BM.jpeg",
-    "high": "BM_hz.png"},
-
-    "pop": {
-    "__comment__": "Population density from Nasa earth observations website",
-    "__source__": "https://neo.sci.gsfc.nasa.gov/view.php?datasetId=SEDAC_POP",
-    "__projection__": "PlateCarree",
-    "high": "population.jpg"}
+    "high": "BM_hz.png"}
 }

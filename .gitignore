@@ -21,7 +21,6 @@ sdist/
 var/
 wheels/
 online/
-data/
 dask-worker-space/
 share/python-wheels/
 *.egg-info/

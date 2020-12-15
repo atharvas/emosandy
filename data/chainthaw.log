@@ -1,0 +1,162 @@
+val acc 0.8776897274633126
+val loss 0.40259358
+No improvement over previous best loss:  0.4003913
+ 80%|ˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆ                                  | 8/10 [49:53<12:07, 363.70s/it]
+== Epoch 8 step 0 train loss 0.29995844 train acc 0.92
+== Epoch 8 step 1 train loss 0.2510331 train acc 0.92
+== Epoch 8 step 2 train loss 0.27434742 train acc 0.912
+== Epoch 8 step 3 train loss 0.30882218 train acc 0.912
+== Epoch 8 step 4 train loss 0.25825548 train acc 0.932
+== Epoch 8 step 5 train loss 0.31508914 train acc 0.896
+== Epoch 8 step 6 train loss 0.30152392 train acc 0.916
+== Epoch 8 step 7 train loss 0.32221735 train acc 0.904
+== Epoch 8 step 8 train loss 0.37479016 train acc 0.888
+== Epoch 8 step 9 train loss 0.2906418 train acc 0.916
+== Epoch 8 step 10 train loss 0.35803846 train acc 0.884
+== Epoch 8 step 11 train loss 0.30009446 train acc 0.908
+== Epoch 8 step 12 train loss 0.37482783 train acc 0.876
+== Epoch 8 step 13 train loss 0.36189282 train acc 0.9
+== Epoch 8 step 14 train loss 0.32146254 train acc 0.896
+== Epoch 8 step 15 train loss 0.32452503 train acc 0.896
+== Epoch 8 step 16 train loss 0.29125538 train acc 0.9
+== Epoch 8 step 17 train loss 0.26743144 train acc 0.928
+== Epoch 8 step 18 train loss 0.30082914 train acc 0.92
+== Epoch 8 step 19 train loss 0.38367173 train acc 0.876
+val acc 0.8779538784067087
+^[[Aval loss 0.401314
+No improvement over previous best loss:  0.4003913
+ 90%|ˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆ‹                 | 9/10 [55:40<05:58, 358.58s/it]
+^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B== Epoch 9 step 0 train loss 0.29651532 train acc 0.916
+== Epoch 9 step 1 train loss 0.25053358 train acc 0.92
+== Epoch 9 step 2 train loss 0.2668391 train acc 0.912
+== Epoch 9 step 3 train loss 0.3006819 train acc 0.912
+== Epoch 9 step 4 train loss 0.23932637 train acc 0.936
+== Epoch 9 step 5 train loss 0.31353766 train acc 0.892
+== Epoch 9 step 6 train loss 0.30087617 train acc 0.916
+== Epoch 9 step 7 train loss 0.33458278 train acc 0.9
+== Epoch 9 step 8 train loss 0.3953944 train acc 0.884
+== Epoch 9 step 9 train loss 0.28166026 train acc 0.916
+== Epoch 9 step 10 train loss 0.33990872 train acc 0.884
+== Epoch 9 step 11 train loss 0.30066326 train acc 0.908
+== Epoch 9 step 12 train loss 0.38433293 train acc 0.876
+== Epoch 9 step 13 train loss 0.35224515 train acc 0.9
+== Epoch 9 step 14 train loss 0.30505645 train acc 0.896
+== Epoch 9 step 15 train loss 0.32031444 train acc 0.896
+== Epoch 9 step 16 train loss 0.28920314 train acc 0.9
+== Epoch 9 step 17 train loss 0.25732538 train acc 0.928
+== Epoch 9 step 18 train loss 0.28774917 train acc 0.924
+== Epoch 9 step 19 train loss 0.3757658 train acc 0.872
+val acc 0.8787085953878409
+val loss 0.4005539
+No improvement over previous best loss:  0.4003913
+ 90%|ˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆ‰                 | 9/10 [1:01:29<06:49, 409.89s/it]
+/Users/atharva2/Desktop/LING_506_MAC/torchMoji/local/lib/python3.8/site-packages/numpy/core/fromnumeric.py:3372: RuntimeWarning: Mean of empty slice.
+  return _methods._mean(a, axis=axis, dtype=dtype,
+/Users/atharva2/Desktop/LING_506_MAC/torchMoji/local/lib/python3.8/site-packages/numpy/core/_methods.py:170: RuntimeWarning: invalid value encountered in double_scalars
+  ret = ret.dtype.type(ret / rcount)
+Acc: nan
+(local) (local) un-mac01:torchMoji atharva2$ python examples/finetune_custom_chain_thaw.py         data/pickles/sandy/tuned_deepmoji.pth
+Loading weights for embed.weight
+Loading weights for lstm_0.weight_ih_l0
+Loading weights for lstm_0.weight_hh_l0
+Loading weights for lstm_0.bias_ih_l0
+Loading weights for lstm_0.bias_hh_l0
+Loading weights for lstm_0.weight_ih_l0_reverse
+Loading weights for lstm_0.weight_hh_l0_reverse
+Loading weights for lstm_0.bias_ih_l0_reverse
+Loading weights for lstm_0.bias_hh_l0_reverse
+Loading weights for lstm_1.weight_ih_l0
+Loading weights for lstm_1.weight_hh_l0
+Loading weights for lstm_1.bias_ih_l0
+Loading weights for lstm_1.bias_hh_l0
+Loading weights for lstm_1.weight_ih_l0_reverse
+Loading weights for lstm_1.weight_hh_l0_reverse
+Loading weights for lstm_1.bias_ih_l0_reverse
+Loading weights for lstm_1.bias_hh_l0_reverse
+Loading weights for attention_layer.attention_vector
+Ignoring weights for output_layer.0.weight
+Ignoring weights for output_layer.0.bias
+TorchMoji(
+  (embed): Embedding(50000, 256)
+  (embed_dropout): Dropout2d(p=0.1, inplace=False)
+  (lstm_0): LSTMHardSigmoid(256, 512, batch_first=True, bidirectional=True)
+  (lstm_1): LSTMHardSigmoid(1024, 512, batch_first=True, bidirectional=True)
+  (attention_layer): Attention(2304, return attention=False)
+  (final_dropout): Dropout(p=0.5, inplace=False)
+  (output_layer): Sequential(
+    (0): Linear(in_features=2304, out_features=4, bias=True)
+  )
+)
+Method:  chain-thaw
+Metric:  acc
+Classes: 4
+Training..
+Finetuning Sequential(
+  (0): Linear(in_features=2304, out_features=4, bias=True)
+)
+original val loss 1.3884887
+  0%|                                                                                                                                                                                      | 0/10 [00:00<?, ?it/s]
+== Epoch 0 step 0 train loss 1.3892533 train acc 0.54
+== Epoch 0 step 1 train loss 1.3527232 train acc 0.828
+== Epoch 0 step 2 train loss 1.3284724 train acc 0.876
+== Epoch 0 step 3 train loss 1.2971609 train acc 0.876
+== Epoch 0 step 4 train loss 1.264487 train acc 0.888
+== Epoch 0 step 5 train loss 1.2392167 train acc 0.86
+== Epoch 0 step 6 train loss 1.2051911 train acc 0.872
+== Epoch 0 step 7 train loss 1.1911477 train acc 0.86
+== Epoch 0 step 8 train loss 1.164584 train acc 0.86
+== Epoch 0 step 9 train loss 1.1291041 train acc 0.872
+== Epoch 0 step 10 train loss 1.1132666 train acc 0.848
+== Epoch 0 step 11 train loss 1.0748361 train acc 0.872
+== Epoch 0 step 12 train loss 1.0842748 train acc 0.82
+== Epoch 0 step 13 train loss 1.0469273 train acc 0.836
+== Epoch 0 step 14 train loss 1.0223722 train acc 0.864
+== Epoch 0 step 15 train loss 1.0052254 train acc 0.844
+== Epoch 0 step 16 train loss 0.97249365 train acc 0.852
+== Epoch 0 step 17 train loss 0.92687005 train acc 0.888
+== Epoch 0 step 18 train loss 0.9315793 train acc 0.868
+== Epoch 0 step 19 train loss 0.91709787 train acc 0.856
+val acc 0.8701635220125788
+  0%|                                                                                                                                                                                      | 0/10 [03:12<?, ?it/s]
+Traceback (most recent call last):
+  File "examples/finetune_custom_chain_thaw.py", line 35, in <module>
+    model, acc = finetune(model, data['texts'], data['labels'], nb_classes, data['batch_size'], nb_epochs=10, method='chain-thaw')
+  File "/Users/atharva2/Desktop/LING_506_MAC/torchMoji/torchmoji/finetuning.py", line 279, in finetune
+    result = chain_thaw(model, train_gen, val_gen, test_gen, nb_epochs, checkpoint_path, loss_op, embed_l2=embed_l2,
+  File "/Users/atharva2/Desktop/LING_506_MAC/torchMoji/torchmoji/finetuning.py", line 408, in chain_thaw
+    train_by_chain_thaw(model, train_gen, val_gen, loss_op, patience, nb_epochs, checkpoint_path,
+  File "/Users/atharva2/Desktop/LING_506_MAC/torchMoji/torchmoji/finetuning.py", line 484, in train_by_chain_thaw
+    fit_model(model, loss_op, adam, train_gen, val_gen, nb_epochs,
+  File "/Users/atharva2/Desktop/LING_506_MAC/torchMoji/torchmoji/finetuning.py", line 549, in fit_model
+    val_loss = np.mean([calc_loss(loss_op, model(Variable(xv)), Variable(yv)).data.cpu().numpy() for xv, yv in val_gen])
+  File "/Users/atharva2/Desktop/LING_506_MAC/torchMoji/torchmoji/finetuning.py", line 549, in <listcomp>
+    val_loss = np.mean([calc_loss(loss_op, model(Variable(xv)), Variable(yv)).data.cpu().numpy() for xv, yv in val_gen])
+  File "/Users/atharva2/Desktop/LING_506_MAC/torchMoji/local/lib/python3.8/site-packages/torch/nn/modules/module.py", line 532, in __call__
+    result = self.forward(*input, **kwargs)
+  File "/Users/atharva2/Desktop/LING_506_MAC/torchMoji/torchmoji/model_def.py", line 221, in forward
+    lstm_1_output, _ = self.lstm_1(lstm_0_output, hidden)
+  File "/Users/atharva2/Desktop/LING_506_MAC/torchMoji/local/lib/python3.8/site-packages/torch/nn/modules/module.py", line 532, in __call__
+    result = self.forward(*input, **kwargs)
+  File "/Users/atharva2/Desktop/LING_506_MAC/torchMoji/torchmoji/lstm.py", line 112, in forward
+    output, hidden = func(input, self.all_weights, hx)
+  File "/Users/atharva2/Desktop/LING_506_MAC/torchMoji/torchmoji/lstm.py", line 182, in forward
+    nexth, output = func(input, hidden, weight)
+  File "/Users/atharva2/Desktop/LING_506_MAC/torchMoji/torchmoji/lstm.py", line 307, in forward
+    hy, output = inner(input, hidden[l], weight[l])
+  File "/Users/atharva2/Desktop/LING_506_MAC/torchMoji/torchmoji/lstm.py", line 279, in forward
+    hidden = inner(step_input, hidden, *weight)
+  File "/Users/atharva2/Desktop/LING_506_MAC/torchMoji/torchmoji/lstm.py", line 339, in LSTMCell
+    ingate = hard_sigmoid(ingate)
+  File "/Users/atharva2/Desktop/LING_506_MAC/torchMoji/torchmoji/lstm.py", line 354, in hard_sigmoid
+    x = (0.2 * x) + 0.5
+KeyboardInterrupt
+
+(local) (local) un-mac01:torchMoji atharva2$
+(local) (local) un-mac01:torchMoji atharva2$
+(local) (local) un-mac01:torchMoji atharva2$
+(local) (local) un-mac01:torchMoji atharva2$
+(local) (local) un-mac01:torchMoji atharva2$
+(local) (local) un-mac01:torchMoji atharva2$
+(local) (local) un-mac01:torchMoji atharva2$
+(local) (local) un-mac01:torchMoji atharva2$
+(local) (local) un-mac01:torchMoji atharva2$
